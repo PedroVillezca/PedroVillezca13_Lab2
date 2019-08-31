@@ -1,0 +1,136 @@
+a {
+	padding: 10px 20px;
+	background-color: #04037A;
+	opacity: 0.8;
+	color: white;
+}
+
+#leftA {
+	margin-left: 5px;
+}
+
+#rightA {
+	margin-right: 5px;
+}
+
+a:hover{
+	opacity: 0.6;
+}
+
+address {
+	font-style: normal;
+	padding: 10px;
+}
+
+body {
+	font-family: Arial, san-serif;
+	padding: 0px;
+	margin: 0px;
+}
+
+h1 {
+	background-color: #04037A;
+	padding: 20px;
+	margin: 0px;
+	color: white;
+}
+
+h3 {
+	background-color: #04037A;
+	padding: 10px;
+	margin: 0px;
+	color: white;
+}
+
+h3:hover {
+	opacity: 0.8;
+}
+
+header {
+	font-family: Arial, san-serif;
+	padding: 0px;
+	margin: 0px;
+}
+
+img {
+	padding-left: 50px;
+}
+
+nav {
+	padding: 10px;
+}
+
+ol, ul {
+	clear: both;
+}
+
+p {
+	padding-left: 10px;
+}
+
+p, ol, ul {
+	font-family: Times New Roman;
+	font-size: 18px;
+}
+
+section {
+	padding-top:0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #04037A;
+	margin: 0px;
+}
+
+footer {
+	margin: 0px;
+	padding: 5px;
+	background-color: #04037A;
+	color: white;
+}
+
+#headerDiv {
+	border: 3px;
+	border-color:#04037A;
+}
+
+.titleP {
+	font-weight: bold;
+	float: left;
+}
+
+.dateP {
+	font-weight: bold;
+	float: right;
+	padding-right: 50px;
+}
+
+.experienceP {
+	padding-bottom: 0px;
+	padding-left: 140px;
+	clear: both;
+	color: #333;
+}
+
+#logoITESM {
+	display: block;
+	max-width: 100px;
+	max-height: auto;
+	width: auto;
+	height: auto;
+	float: left;
+	padding-left: 0px;
+}
+
+#logoPTec {
+	display: block;
+	max-width: 90px;
+	max-height: auto;
+	width: auto;
+	height: auto;
+	float: left;
+	padding-left: 5px;
+	padding-right: 5px;
+}
